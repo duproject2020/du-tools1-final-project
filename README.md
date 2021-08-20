@@ -1,4 +1,4 @@
-# DST - Final Project
+# DST1 - Final Project
 
 ### Final Project - Analyze the odds of approval based on various factors like income, credit history, etc. of a borrower applying for a loan
 
